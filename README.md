@@ -53,13 +53,13 @@ sea_gradual.npz
 
 * Weather: This dataset contains the weather information over 50 years in Bellevue and Nebraska. The task is to predict whether a day is rainy or not.
 
-![image-20190830143305580](/Users/luyang/Dropbox/python/online imbalance/ACDWM/README.assets/image-20190830143305580.png)
+![image-20190830143305580](./README.assets/image-20190830143305580.png)
 
 
 
 ### Drift Modes
 
-![image-20190830143415142](/Users/luyang/Dropbox/python/online imbalance/ACDWM/README.assets/image-20190830143415142.png)
+![image-20190830143415142](./README.assets/image-20190830143415142.png)
 
 In the experiments, the imbalance ratio is changed by two prior drift modes:
 
