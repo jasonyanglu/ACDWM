@@ -59,7 +59,9 @@ sea_gradual.npz
 
 ### Drift Modes
 
-<img src="./README.assets/image-20190830143415142.png" width="500"/>
+<p align="center">
+  <img src="./README.assets/image-20190830143415142.png" width="500"/>
+</p>
 
 In the experiments, the imbalance ratio is changed by two prior drift modes:
 
