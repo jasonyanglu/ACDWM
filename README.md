@@ -59,10 +59,6 @@ sea_gradual.npz
 
 ### Drift Modes
 
-<p align="center">
-  <img src="./README.assets/image-20190830143415142.png" width="500"/>
-</p>
-
 In the experiments, the imbalance ratio is changed by two prior drift modes:
 
 * Abrupt drift: The imbalance ratio is initially set at 0.01. After half of the data stream, the imbalance ratio suddenly changes to 0.99, namely the majority class becomes to the minority class with imbalance ratio 0.01. The prequential measures are reset at the position of the abrupt drift.
@@ -71,7 +67,9 @@ In the experiments, the imbalance ratio is changed by two prior drift modes:
 
 The imbalance ratio here refers to the percentage of positive class samples. To control the imbalance ratio, undersampling is done on every 1000 samples in the original data stream. The majority class is undersampled if the original imbalance ratio on this chunk is smaller than the assigned imbalance ratio, and the minority class is undersampled vice versa. As the original imbalance ratio of each dataset is different, the drift position after undersampling is also different.
 
-
+<p align="center">
+  <img src="./README.assets/image-20190830143415142.png" width="500"/>
+</p>
 
 ## Paper
 
