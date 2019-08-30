@@ -53,7 +53,7 @@ sea_gradual.npz
 
 * Weather: This dataset contains the weather information over 50 years in Bellevue and Nebraska. The task is to predict whether a day is rainy or not.
 
-<img src="./README.assets/image-20190830143305580.png" width="500"/>
+<div style="text-align:center"><img src="./README.assets/image-20190830143305580.png" width="500"/></div>
 
 ### Drift Modes
 
