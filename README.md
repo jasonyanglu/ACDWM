@@ -75,4 +75,4 @@ The imbalance ratio here refers to the percentage of positive class samples. To 
 
 Please cite the paper if the codes are helpful for you research.
 
-Yang Lu, Yiu-ming Cheung, and Yuan Yan Tang, “Adaptive Chunk-based Dynamic Weighted Majority for Imbalanced Data Streams with Concept Drift”, in *IEEE Transactions on Neural Networks and Learning Systems*, to be appear.
+Yang Lu, Yiu-ming Cheung, and Yuan Yan Tang, “Adaptive Chunk-based Dynamic Weighted Majority for Imbalanced Data Streams with Concept Drift”, in *IEEE Transactions on Neural Networks and Learning Systems*, DOI:10.1109/TNNLS.2019.2951814.
